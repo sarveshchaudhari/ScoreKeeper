@@ -45,3 +45,5 @@ resetButton.addEventListener("click", function () {
   gameOver = false;
   result.removeChild(resultDisplay);
 });
+
+//Basic logic Created Sarvesh Chaudhari 3/08/2024
